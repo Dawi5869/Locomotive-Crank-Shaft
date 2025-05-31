@@ -1,7 +1,7 @@
 # 🚂 Locomotive Crank Shaft – Experimental Modeling & Simulation
 
 <p align="center">
-  <img src="image.png" alt="HappyCam Product Photo" width="850"/>
+  <img src="image.png" alt="HappyCam Product Photo" width="750"/>
 </p>
 
 ## ✨ Overview
