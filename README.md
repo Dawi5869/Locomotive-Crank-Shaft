@@ -1,5 +1,9 @@
 # 🚂 Locomotive Crank Shaft – Experimental Modeling & Simulation
 
+<p align="center">
+  <img src="image.png" alt="HappyCam Product Photo" width="850"/>
+</p>
+
 ## ✨ Overview
 This was a collaborative lab project for our Dynamics & Controls course (ASEN 2803), where we modeled and analyzed the motion of a **locomotive crank shaft** mechanism. The system consists of a rotating disk connected to a sliding collar via a bar, converting rotational motion into vertical motion. We derived kinematic equations for the system and built a mathematical model to simulate the collar’s motion using MATLAB.
 
